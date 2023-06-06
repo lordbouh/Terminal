@@ -26,7 +26,7 @@ vim редактор
 12) Выйти из папки на уровень выше  
 cd ..  
 13) переместить любые 2 файла, которые вы создали, в любую другую папку.  
-mv foldername_destination foldername_source/filename  
+mv foldername_source/filename foldername_destination    
 14) скопировать любые 2 файла, которые вы создали, в любую другую папку.  
 cp foldername_source/filename foldername_destination  
 15) Найти файл по имени  
