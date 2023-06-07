@@ -8,8 +8,8 @@ mkdir
 cd foldername  
 4) Создать 3 папки  
 mkdir foldername1 foldername2 foldername3  
-5) Зайти в любоую папку  
-cd foldername  
+5) Зайти в любую папку  
+cd foldername
 6) Создать 5 файлов (3 txt, 2 json)  
 touch 1.txt 2.txt 3.txt 4.json 5.json  
 7) Создать 3 папки  
